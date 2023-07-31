@@ -1,5 +1,6 @@
 hostname 
 ls -la 
-date 
+date +"%A %d %B"
+
 sleep 15
 
