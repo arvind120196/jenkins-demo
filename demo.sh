@@ -1,5 +1,5 @@
 hostname 
 ls -la 
 date 
-sleep 15
+sleep 10
 
